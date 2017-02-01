@@ -23,15 +23,15 @@
 ### Who
 
 - Anyone 13 or older
-- Not under influence of alchol
-- HAM technition class certification if using non FCC registered radios
+- Not under influence of Alcohol
+- HAM technician class certification if using non FCC registered radios
 
 
 ## Frequent concerns
 
 #### Can a drone fly over my property? 
 
-- Property rights in most US states do *not* extend to the unregulated class G airspace above a property (500 ft). Current legal precident does not restrict flights over private property as long as the flight does not cause excessive distress due to noise (Boggs v. Merideth; United States v. Causby)
+- Property rights in most US states do *not* extend to the unregulated class G airspace above a property (500 ft). Current legal precedent does not restrict flights over private property as long as the flight does not cause excessive distress due to noise (Boggs v. Merideth; United States v. Causby)
 
 
 #### Can a drone peer in my window?
@@ -40,11 +40,11 @@
 
 #### Can drones video record me while I'm outside?
  
-- In most states, to film/photograph a person in a public place from a distance is completly legal. You can assume an expectation to privacy in a public venue. Responsible piolts do not fly within 25 meters of any person. Most drones do not have optics with zoom capability.
+- In most states, to film/photograph a person in a public place from a distance is completely legal. You can not assume an expectation to privacy in a public venue. Responsible pilots do not fly within 25 meters of any person. Most drones do not have optics with zoom capability.
 
 #### Can drones zoom in on me?
 
-- Most drones have fixed focus length lenses comparible to a 35mm or smart phone camera. Hobbyist drones can't cary the weight of a telephoto lens, and typically see compariable to what a human eyeball would see from the same distance.
+- Most drones have fixed focus length lenses comparable to a 35mm or smart phone camera. Hobbyist drones can't cary the weight of a telephoto lens, and typically see comparable to what a human eyeball would see from the same distance.
 
 
 #### Can I learn to fly? 
